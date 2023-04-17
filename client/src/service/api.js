@@ -1,7 +1,6 @@
 import axios from 'axios';
 
-const URL = 'http://localhost:8000';
-
+const URL = 'http://localhost:5000';
 
 //post api
 export const addUser = async (data) => {
